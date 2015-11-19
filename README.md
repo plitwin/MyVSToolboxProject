@@ -1,2 +1,2 @@
 # MyProject
-Test project for git for asp.net programmer talk.
+Test project for git for Visual Studio Toolbox with Robert Green.
